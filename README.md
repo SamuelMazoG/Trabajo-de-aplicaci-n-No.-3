@@ -1,5 +1,6 @@
 
-# README
+# Miguel Calle y Samuel Mazo
+
 Este repositorio contiene los siguientes archivos:
 
 01 - modelo 1.ipynb
